@@ -1,0 +1,12 @@
+{
+  "status": "PASS",
+  "popcount_and_trailing_checks": 2000,
+  "bitmap_interval_and_shift_checks": 1000,
+  "exact_map_interval_checks": 3240,
+  "large_order_map_interval_checks": 2000,
+  "scalar_oracle_max_order": 36,
+  "cache_partition_checks": 200,
+  "virtual_large_offset_check": true,
+  "full_M36_executed": false,
+  "no_large_arrays_allocated": true
+}

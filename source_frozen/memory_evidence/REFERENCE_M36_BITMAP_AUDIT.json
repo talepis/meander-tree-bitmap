@@ -1,0 +1,19 @@
+{
+  "status": "M36_BITMAP_FULL_CHECKS_PASS",
+  "Mn": "2358261838751729019212344104926012",
+  "stage_count": 64,
+  "launcher_total_seconds": 2191.9399259174243,
+  "geometry_seconds": 63.5330547215417,
+  "numeric_seconds": 2121.080890850164,
+  "peak_RSS_bytes": 945597001728,
+  "peak_coefficient_arena_bytes": 667069564752,
+  "peak_geometry_metadata_bytes": 125977923464,
+  "historical_parallel_M36_seconds": 30020.964927252382,
+  "historical_parallel_M36_RSS_bytes": 989093302272,
+  "same_M36_result": true,
+  "all_stage_entries_equal": true,
+  "all_stage_maxima_equal": true,
+  "matrix_IO_bytes": 0,
+  "independent_CRT": false,
+  "source_manifest_sha256": "5f09d25a425a4251bdf15de0ad7ee84a4ba19396309c4fda4e8117a36879c6b9"
+}

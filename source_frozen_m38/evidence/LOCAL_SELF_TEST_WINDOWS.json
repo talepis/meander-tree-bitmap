@@ -1,0 +1,432 @@
+{
+  "status": "PASS",
+  "source_digest": "efda251fc59d0866158215ee2e82658ed9a0a127050514f37265f0ba3eec43e4",
+  "rank64_boundary_status": "PASS",
+  "boundary": {
+    "status": "PASS",
+    "checks": 57,
+    "large_rank_cases": [
+      {
+        "m": 36,
+        "h": 6,
+        "input_rank": 0,
+        "output_rank": 811985790
+      },
+      {
+        "m": 36,
+        "h": 6,
+        "input_rank": 1,
+        "output_rank": 811985791
+      },
+      {
+        "m": 36,
+        "h": 6,
+        "input_rank": 1771605359,
+        "output_rank": 1739969534
+      },
+      {
+        "m": 37,
+        "h": 5,
+        "input_rank": 0,
+        "output_rank": 1289624490
+      },
+      {
+        "m": 37,
+        "h": 5,
+        "input_rank": 1,
+        "output_rank": 1289624491
+      },
+      {
+        "m": 37,
+        "h": 5,
+        "input_rank": 2147483647,
+        "output_rank": 2045132497
+      },
+      {
+        "m": 37,
+        "h": 5,
+        "input_rank": 2147483648,
+        "output_rank": 2045132498
+      },
+      {
+        "m": 37,
+        "h": 5,
+        "input_rank": 3511574909,
+        "output_rank": 3029594023
+      },
+      {
+        "m": 38,
+        "h": 6,
+        "input_rank": 0,
+        "output_rank": 3029594040
+      },
+      {
+        "m": 38,
+        "h": 6,
+        "input_rank": 1,
+        "output_rank": 3029594041
+      },
+      {
+        "m": 38,
+        "h": 6,
+        "input_rank": 2147483647,
+        "output_rank": 5177077687
+      },
+      {
+        "m": 38,
+        "h": 6,
+        "input_rank": 2147483648,
+        "output_rank": 5177077688
+      },
+      {
+        "m": 38,
+        "h": 6,
+        "input_rank": 4294967295,
+        "output_rank": 4624972215
+      },
+      {
+        "m": 38,
+        "h": 6,
+        "input_rank": 4294967296,
+        "output_rank": 4624972216
+      },
+      {
+        "m": 38,
+        "h": 6,
+        "input_rank": 4294967303,
+        "output_rank": 4624972223
+      },
+      {
+        "m": 38,
+        "h": 6,
+        "input_rank": 6768687869,
+        "output_rank": 6541168933
+      },
+      {
+        "m": 38,
+        "h": 4,
+        "input_rank": 0,
+        "output_rank": 1767263190
+      },
+      {
+        "m": 38,
+        "h": 4,
+        "input_rank": 1,
+        "output_rank": 1767263191
+      },
+      {
+        "m": 38,
+        "h": 4,
+        "input_rank": 2147483647,
+        "output_rank": 3914746837
+      },
+      {
+        "m": 38,
+        "h": 4,
+        "input_rank": 2147483648,
+        "output_rank": 3914746838
+      },
+      {
+        "m": 38,
+        "h": 4,
+        "input_rank": 4294967295,
+        "output_rank": 2577189603
+      },
+      {
+        "m": 38,
+        "h": 4,
+        "input_rank": 4294967296,
+        "output_rank": 2577189604
+      },
+      {
+        "m": 38,
+        "h": 4,
+        "input_rank": 4294967303,
+        "output_rank": 2577189611
+      },
+      {
+        "m": 38,
+        "h": 4,
+        "input_rank": 6541168949,
+        "output_rank": 4796857212
+      }
+    ],
+    "maximum_tested_rank": 6768687869,
+    "maximum_tested_map_value": 6541168933,
+    "no_large_rank_arena_allocated": true,
+    "rank_dtype": "int64",
+    "index_dtype": "int64",
+    "coefficient_caps_checked": true
+  },
+  "whole_small_orders": [
+    {
+      "n": 1,
+      "requested_groups": 3,
+      "effective_groups": 1,
+      "Mn": "1",
+      "status": "PASS"
+    },
+    {
+      "n": 1,
+      "requested_groups": 4,
+      "effective_groups": 1,
+      "Mn": "1",
+      "status": "PASS"
+    },
+    {
+      "n": 2,
+      "requested_groups": 3,
+      "effective_groups": 1,
+      "Mn": "2",
+      "status": "PASS"
+    },
+    {
+      "n": 2,
+      "requested_groups": 4,
+      "effective_groups": 1,
+      "Mn": "2",
+      "status": "PASS"
+    },
+    {
+      "n": 3,
+      "requested_groups": 3,
+      "effective_groups": 2,
+      "Mn": "8",
+      "status": "PASS"
+    },
+    {
+      "n": 3,
+      "requested_groups": 4,
+      "effective_groups": 2,
+      "Mn": "8",
+      "status": "PASS"
+    },
+    {
+      "n": 4,
+      "requested_groups": 3,
+      "effective_groups": 2,
+      "Mn": "42",
+      "status": "PASS"
+    },
+    {
+      "n": 4,
+      "requested_groups": 4,
+      "effective_groups": 2,
+      "Mn": "42",
+      "status": "PASS"
+    },
+    {
+      "n": 5,
+      "requested_groups": 3,
+      "effective_groups": 3,
+      "Mn": "262",
+      "status": "PASS"
+    },
+    {
+      "n": 5,
+      "requested_groups": 4,
+      "effective_groups": 3,
+      "Mn": "262",
+      "status": "PASS"
+    },
+    {
+      "n": 6,
+      "requested_groups": 3,
+      "effective_groups": 3,
+      "Mn": "1828",
+      "status": "PASS"
+    },
+    {
+      "n": 6,
+      "requested_groups": 4,
+      "effective_groups": 3,
+      "Mn": "1828",
+      "status": "PASS"
+    },
+    {
+      "n": 7,
+      "requested_groups": 3,
+      "effective_groups": 3,
+      "Mn": "13820",
+      "status": "PASS"
+    },
+    {
+      "n": 7,
+      "requested_groups": 4,
+      "effective_groups": 4,
+      "Mn": "13820",
+      "status": "PASS"
+    },
+    {
+      "n": 8,
+      "requested_groups": 3,
+      "effective_groups": 3,
+      "Mn": "110954",
+      "status": "PASS"
+    },
+    {
+      "n": 8,
+      "requested_groups": 4,
+      "effective_groups": 4,
+      "Mn": "110954",
+      "status": "PASS"
+    },
+    {
+      "n": 9,
+      "requested_groups": 3,
+      "effective_groups": 3,
+      "Mn": "933458",
+      "status": "PASS"
+    },
+    {
+      "n": 9,
+      "requested_groups": 4,
+      "effective_groups": 4,
+      "Mn": "933458",
+      "status": "PASS"
+    },
+    {
+      "n": 10,
+      "requested_groups": 3,
+      "effective_groups": 3,
+      "Mn": "8152860",
+      "status": "PASS"
+    },
+    {
+      "n": 10,
+      "requested_groups": 4,
+      "effective_groups": 4,
+      "Mn": "8152860",
+      "status": "PASS"
+    },
+    {
+      "n": 11,
+      "requested_groups": 3,
+      "effective_groups": 3,
+      "Mn": "73424650",
+      "status": "PASS"
+    },
+    {
+      "n": 11,
+      "requested_groups": 4,
+      "effective_groups": 4,
+      "Mn": "73424650",
+      "status": "PASS"
+    },
+    {
+      "n": 12,
+      "requested_groups": 3,
+      "effective_groups": 3,
+      "Mn": "678390116",
+      "status": "PASS"
+    },
+    {
+      "n": 12,
+      "requested_groups": 4,
+      "effective_groups": 4,
+      "Mn": "678390116",
+      "status": "PASS"
+    }
+  ],
+  "brute_pair_checks": 19414,
+  "M38_real_grammar_checks": [
+    {
+      "groups": 3,
+      "coverage": "176733862787006701400",
+      "parts": [
+        {
+          "lower_sizes": [
+            1,
+            4,
+            7,
+            10,
+            13,
+            16,
+            19
+          ],
+          "nodes": 5931,
+          "weighted_coverage": "83454915331760818898"
+        },
+        {
+          "lower_sizes": [
+            2,
+            5,
+            8,
+            11,
+            14,
+            17
+          ],
+          "nodes": 5957,
+          "weighted_coverage": "38918432593391312158"
+        },
+        {
+          "lower_sizes": [
+            3,
+            6,
+            9,
+            12,
+            15,
+            18
+          ],
+          "nodes": 5993,
+          "weighted_coverage": "54360514861854570344"
+        }
+      ]
+    },
+    {
+      "groups": 4,
+      "coverage": "176733862787006701400",
+      "parts": [
+        {
+          "lower_sizes": [
+            1,
+            5,
+            9,
+            13,
+            17
+          ],
+          "nodes": 4479,
+          "weighted_coverage": "33219286085020689770"
+        },
+        {
+          "lower_sizes": [
+            2,
+            6,
+            10,
+            14,
+            18
+          ],
+          "nodes": 4653,
+          "weighted_coverage": "46834448064899307068"
+        },
+        {
+          "lower_sizes": [
+            3,
+            7,
+            11,
+            15,
+            19
+          ],
+          "nodes": 4604,
+          "weighted_coverage": "72781415621082948664"
+        },
+        {
+          "lower_sizes": [
+            4,
+            8,
+            12,
+            16
+          ],
+          "nodes": 4398,
+          "weighted_coverage": "23898713016003755898"
+        }
+      ]
+    }
+  ],
+  "threads": 2,
+  "platform": "Windows-11-10.0.26200-SP0",
+  "python": "3.12.14 (main, Aug 25 2026, 14:01:42) [MSC v.1944 64 bit (AMD64)]",
+  "seconds": 3.111833199975081,
+  "full_M38_numerical_run": false,
+  "independent_CRT": false
+}

@@ -1,0 +1,49 @@
+{
+  "n": 38,
+  "source_digest": "efda251fc59d0866158215ee2e82658ed9a0a127050514f37265f0ba3eec43e4",
+  "groups": [
+    {
+      "lower_sizes": [
+        1,
+        5,
+        9,
+        13,
+        17
+      ],
+      "contribution": "53022188056440864580946848895551542",
+      "weighted_lower_coverage": "33219286085020689770"
+    },
+    {
+      "lower_sizes": [
+        2,
+        6,
+        10,
+        14,
+        18
+      ],
+      "contribution": "77371847600821090535942536771124028",
+      "weighted_lower_coverage": "46834448064899307068"
+    },
+    {
+      "lower_sizes": [
+        3,
+        7,
+        11,
+        15,
+        19
+      ],
+      "contribution": "128106091870808593177303427240780026",
+      "weighted_lower_coverage": "72781415621082948664"
+    },
+    {
+      "lower_sizes": [
+        4,
+        8,
+        12,
+        16
+      ],
+      "contribution": "37097954294733698430294947783539356",
+      "weighted_lower_coverage": "23898713016003755898"
+    }
+  ]
+}

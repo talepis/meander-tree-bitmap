@@ -1,0 +1,11 @@
+{
+  "label": "M37_G4_ONES",
+  "epoch": 1793928101.4372272,
+  "pod_uid": "cc20182f-f1a1-48eb-9a02-ec52e0c4cde9",
+  "pod_limit_bytes": 2040109465600,
+  "cgroup_current_bytes": 284205056,
+  "host_available_bytes": 2133674598400,
+  "reserve_bytes": 17179869184,
+  "matrix_files_allowed": false,
+  "concurrent_numerical_jobs_allowed": false
+}

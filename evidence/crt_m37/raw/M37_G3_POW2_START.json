@@ -1,0 +1,10 @@
+{
+  "status": "STARTED",
+  "pod_uid": "cc20182f-f1a1-48eb-9a02-ec52e0c4cde9",
+  "pid": 11240,
+  "start_ticks": 565666202,
+  "epoch": 1793918971.9523592,
+  "group": 3,
+  "ring": "pow2",
+  "source_digest": "f4b8f59d5026089e59b1974d7239f30dfff8c556552535d05b197f2d29501c66"
+}

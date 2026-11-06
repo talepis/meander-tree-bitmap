@@ -1,0 +1,19 @@
+{
+  "title": "Tree and bitmap geometry for exact closed meander counts through M38",
+  "description": "Frozen exact CPU sources and measured records for M35-M38. Matching shared-geometry modular checks exist for M35-M37; M38 has no CRT.",
+  "creators": [
+    {
+      "name": "Alepis, Efthimios",
+      "orcid": "0000-0002-3862-7218"
+    }
+  ],
+  "license": "MIT",
+  "keywords": [
+    "closed meanders",
+    "exact enumeration",
+    "noncrossing matchings",
+    "bitmap geometry"
+  ],
+  "upload_type": "software",
+  "version": "0.2.0"
+}

@@ -1,0 +1,11 @@
+{
+  "label": "M37_G4_POW2",
+  "epoch": 1793926076.0462568,
+  "pod_uid": "cc20182f-f1a1-48eb-9a02-ec52e0c4cde9",
+  "pod_limit_bytes": 2040109465600,
+  "cgroup_current_bytes": 283500544,
+  "host_available_bytes": 2124264878080,
+  "reserve_bytes": 17179869184,
+  "matrix_files_allowed": false,
+  "concurrent_numerical_jobs_allowed": false
+}

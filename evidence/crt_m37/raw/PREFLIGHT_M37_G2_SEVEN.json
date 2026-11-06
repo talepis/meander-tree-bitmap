@@ -1,0 +1,11 @@
+{
+  "label": "M37_G2_SEVEN",
+  "epoch": 1793916934.3104196,
+  "pod_uid": "cc20182f-f1a1-48eb-9a02-ec52e0c4cde9",
+  "pod_limit_bytes": 2040109465600,
+  "cgroup_current_bytes": 276746240,
+  "host_available_bytes": 2134274117632,
+  "reserve_bytes": 17179869184,
+  "matrix_files_allowed": false,
+  "concurrent_numerical_jobs_allowed": false
+}

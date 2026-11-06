@@ -1,0 +1,70 @@
+{
+  "status": "PASS",
+  "seconds": 132.74526520003565,
+  "counts": {
+    "coefficients": 610835273,
+    "index_values": 172527156,
+    "support_values": 190843586,
+    "stages": 156
+  },
+  "cases": [
+    {
+      "n": 1,
+      "Mn": "1",
+      "status": "EXACT_ARRAY_EQUALITY_PASS"
+    },
+    {
+      "n": 2,
+      "Mn": "2",
+      "status": "EXACT_ARRAY_EQUALITY_PASS"
+    },
+    {
+      "n": 3,
+      "Mn": "8",
+      "status": "EXACT_ARRAY_EQUALITY_PASS"
+    },
+    {
+      "n": 4,
+      "Mn": "42",
+      "status": "EXACT_ARRAY_EQUALITY_PASS"
+    },
+    {
+      "n": 6,
+      "Mn": "1828",
+      "status": "EXACT_ARRAY_EQUALITY_PASS"
+    },
+    {
+      "n": 8,
+      "Mn": "110954",
+      "status": "EXACT_ARRAY_EQUALITY_PASS"
+    },
+    {
+      "n": 10,
+      "Mn": "8152860",
+      "status": "EXACT_ARRAY_EQUALITY_PASS"
+    },
+    {
+      "n": 12,
+      "Mn": "678390116",
+      "status": "EXACT_ARRAY_EQUALITY_PASS"
+    },
+    {
+      "n": 20,
+      "Mn": "64477712119584604",
+      "status": "EXACT_ARRAY_EQUALITY_PASS"
+    },
+    {
+      "n": 24,
+      "Mn": "794337831754570367812",
+      "status": "EXACT_ARRAY_EQUALITY_PASS"
+    },
+    {
+      "n": 26,
+      "Mn": "91412898898828176826244",
+      "status": "EXACT_ARRAY_EQUALITY_PASS"
+    }
+  ],
+  "comparison": "Direct byte equality for all coefficient bytes, offsets, widths, shapes, metadata, and normalized signed64 index/support values.",
+  "transport": "RAM-only chunked pipes; reference snapshots retained in parent RAM; one numerical child at a time.",
+  "matrix_files_written": false
+}

@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "Please cite the archived release once a new DOI is actually assigned."
+title: "Tree and bitmap geometry for exact closed meander counts through M38"
+type: software
+version: 0.2.0
+date-released: 2026-11-06
+license: MIT
+authors:
+  - family-names: Alepis
+    given-names: Efthimios
+    orcid: "https://orcid.org/0000-0002-3862-7218"
+keywords:
+  - closed meanders
+  - exact enumeration
+  - noncrossing matchings
+  - bitmap geometry

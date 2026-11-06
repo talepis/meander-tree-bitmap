@@ -1,0 +1,13 @@
+{
+  "status": "PASS",
+  "n": 38,
+  "Mn": "295598081822804246724487760690994952",
+  "source_digest": "efda251fc59d0866158215ee2e82658ed9a0a127050514f37265f0ba3eec43e4",
+  "groups": 4,
+  "stages": 272,
+  "sampled_peak_RSS_bytes": 1599349862400,
+  "controller_session_seconds": 12387.379102375358,
+  "matrix_read_bytes": 0,
+  "matrix_write_bytes": 0,
+  "independent_CRT": false
+}

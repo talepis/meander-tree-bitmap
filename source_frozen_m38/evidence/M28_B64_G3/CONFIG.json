@@ -1,0 +1,32 @@
+{
+  "n": 28,
+  "groups": [
+    [
+      1,
+      4,
+      7,
+      10,
+      13
+    ],
+    [
+      2,
+      5,
+      8,
+      11,
+      14
+    ],
+    [
+      3,
+      6,
+      9,
+      12
+    ]
+  ],
+  "backend": "64",
+  "threads": 12,
+  "reserve_bytes": 3221225472,
+  "memory_gib": 13.73,
+  "warmup_n": 12,
+  "source_digest": "efda251fc59d0866158215ee2e82658ed9a0a127050514f37265f0ba3eec43e4",
+  "matrix_files_allowed": false
+}

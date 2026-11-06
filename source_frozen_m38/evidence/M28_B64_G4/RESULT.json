@@ -1,0 +1,103 @@
+{
+  "status": "PASS",
+  "n": 28,
+  "Mn": "10726008363361842734385644",
+  "weighted_lower_coverage": "263747951750360",
+  "source_digest": "efda251fc59d0866158215ee2e82658ed9a0a127050514f37265f0ba3eec43e4",
+  "groups": [
+    [
+      1,
+      5,
+      9,
+      13
+    ],
+    [
+      2,
+      6,
+      10,
+      14
+    ],
+    [
+      3,
+      7,
+      11
+    ],
+    [
+      4,
+      8,
+      12
+    ]
+  ],
+  "backend": "64",
+  "threads": 12,
+  "numerical_seconds": 8.796436400152743,
+  "worker_measured_wall_seconds": 8.816514299949631,
+  "all_worker_launcher_seconds": 16.784219300025143,
+  "controller_session_seconds": 19.859000000054948,
+  "process_RSS_sampled_peak_bytes": 1379139584,
+  "process_RSS_note": "Largest clean worker sampled peak; controller is a separate small process included in cgroup/host guards.",
+  "peak_coefficient_arena_bytes": 457746928,
+  "peak_logical_bytes": 583762552,
+  "total_stages": 192,
+  "groups_completed": 4,
+  "matrix_read_bytes": 0,
+  "matrix_write_bytes": 0,
+  "independent_CRT": false,
+  "known_reference_checked": true,
+  "group_results": [
+    {
+      "group": 1,
+      "path": "group_01\\RESULT.json",
+      "sha256": "564121c5ef87caaac4848f111883be2622aca8adf067d7f6501e7c52e54e0c8a",
+      "lower_sizes": [
+        1,
+        5,
+        9,
+        13
+      ],
+      "contribution": "2778196274766346322561668",
+      "seconds": 2.2105566000100225,
+      "RSS_peak_bytes": 1290829824
+    },
+    {
+      "group": 2,
+      "path": "group_02\\RESULT.json",
+      "sha256": "d5505044b81c4539cffdc290182b9bfc07851957b1a4d53e808d765dbedd9f7e",
+      "lower_sizes": [
+        2,
+        6,
+        10,
+        14
+      ],
+      "contribution": "4982214940523695690345276",
+      "seconds": 2.1851098000770435,
+      "RSS_peak_bytes": 1379139584
+    },
+    {
+      "group": 3,
+      "path": "group_03\\RESULT.json",
+      "sha256": "17ca1776249e3cf61ab6c5c787a352f76d1864ad964cbbe0ad14d22932e23ae8",
+      "lower_sizes": [
+        3,
+        7,
+        11
+      ],
+      "contribution": "1174479874075700084225812",
+      "seconds": 2.146461599972099,
+      "RSS_peak_bytes": 1345912832
+    },
+    {
+      "group": 4,
+      "path": "group_04\\RESULT.json",
+      "sha256": "8746c191bc9b1e1e6a9e95ea818976d448da4adaba74cd8e4f0c71f6e4704e46",
+      "lower_sizes": [
+        4,
+        8,
+        12
+      ],
+      "contribution": "1791117273996100637252888",
+      "seconds": 2.254308400093578,
+      "RSS_peak_bytes": 1255256064
+    }
+  ]
+}

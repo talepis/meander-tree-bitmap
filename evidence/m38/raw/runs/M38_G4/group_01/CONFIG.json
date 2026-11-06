@@ -1,0 +1,20 @@
+{
+  "n": 38,
+  "backend": "64",
+  "threads": 16,
+  "reserve_bytes": 17179869184,
+  "memory_gib": null,
+  "warmup_n": null,
+  "source_digest": "efda251fc59d0866158215ee2e82658ed9a0a127050514f37265f0ba3eec43e4",
+  "matrix_files_allowed": false,
+  "lower_sizes": [
+    1,
+    5,
+    9,
+    13,
+    17
+  ],
+  "output": "/opt/meander-m38-families-20261105-001/runs/M38_G4/group_01",
+  "timeout_seconds": 604799.9997032108,
+  "cache_dir": "/opt/meander-m38-families-20261105-001/numba_cache"
+}

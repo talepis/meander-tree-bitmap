@@ -1,0 +1,20 @@
+{
+  "pid": 10366,
+  "argv": [
+    "/opt/meander-tree-m35-20261103-001/.venv/bin/python",
+    "/opt/meander-m38-families-20261105-001/MEANDER_M38_FAMILIES/server_meander.py",
+    "32",
+    "--groups",
+    "4",
+    "--threads",
+    "16",
+    "--reserve-gib",
+    "16",
+    "--timeout-hours",
+    "4",
+    "--resume",
+    "--output",
+    "/opt/meander-m38-families-20261105-001/runs/M32_G4"
+  ],
+  "epoch": 1793881269.453299
+}

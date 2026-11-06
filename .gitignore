@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+*.pyc
+.numba_cache/
+runs/
+source_frozen/SELF_TEST_RESULT.json
+source_frozen/M37_MEMORY_PREFLIGHT.json
+source_frozen/.NUMERICAL_JOB.lock

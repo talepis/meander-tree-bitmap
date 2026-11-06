@@ -1,0 +1,24 @@
+{
+  "status": "COMPACT_M32_FULL_CHECKS_PASS",
+  "Mn": "154967080111946539652848747626",
+  "stages": 56,
+  "all_stage_entries_equal": true,
+  "all_stage_maxima_equal": true,
+  "release_stages": [
+    39,
+    41
+  ],
+  "max_released_index_pool_capacity_bytes": 7899994864,
+  "max_observed_RSS_drop_bytes": 7899996160,
+  "new_seconds": 90.98935285396874,
+  "old_seconds": 93.20331110619009,
+  "new_RSS_bytes": 50027003904,
+  "old_RSS_bytes": 49797324800,
+  "SHA256": {
+    "M32_COMPACT_RESULT.json": "1c1a1dc3c8f733927a6828867ae65b1dcf20f13e545bee17d4de8bc916ff71ab",
+    "M32_COMPACT_STAGES.jsonl": "dc3f8cd6cb3e28e1d9e7b74f11718374d86457e2904d3e9e080af373b67f9cea",
+    "M32_COMPACT_PREFLIGHT.json": "9fb47b13aff636fec8263e94e60579b60bbdbfe88d1717ab61c494b47650500d"
+  },
+  "matrix_IO_bytes": 0,
+  "independent_CRT": false
+}

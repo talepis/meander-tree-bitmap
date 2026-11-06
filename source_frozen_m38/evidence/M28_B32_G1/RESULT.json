@@ -1,0 +1,67 @@
+{
+  "status": "PASS",
+  "n": 28,
+  "Mn": "10726008363361842734385644",
+  "weighted_lower_coverage": "263747951750360",
+  "source_digest": "efda251fc59d0866158215ee2e82658ed9a0a127050514f37265f0ba3eec43e4",
+  "groups": [
+    [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14
+    ]
+  ],
+  "backend": "32",
+  "threads": 12,
+  "numerical_seconds": 6.139180499943905,
+  "worker_measured_wall_seconds": 6.147347099962644,
+  "all_worker_launcher_seconds": 8.315434799995273,
+  "controller_session_seconds": 9.09299999999348,
+  "process_RSS_sampled_peak_bytes": 2315657216,
+  "process_RSS_note": "Largest clean worker sampled peak; controller is a separate small process included in cgroup/host guards.",
+  "peak_coefficient_arena_bytes": 1147778704,
+  "peak_logical_bytes": 1501610520,
+  "total_stages": 48,
+  "groups_completed": 1,
+  "matrix_read_bytes": 0,
+  "matrix_write_bytes": 0,
+  "independent_CRT": false,
+  "known_reference_checked": true,
+  "group_results": [
+    {
+      "group": 1,
+      "path": "group_01\\RESULT.json",
+      "sha256": "fe9d84747128e0af21e018d40ab8f5d60e36ce6eefaf0b4e7d36f8a0383bd306",
+      "lower_sizes": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "contribution": "10726008363361842734385644",
+      "seconds": 6.139180499943905,
+      "RSS_peak_bytes": 2315657216
+    }
+  ]
+}

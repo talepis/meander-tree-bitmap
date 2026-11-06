@@ -1,0 +1,20 @@
+{
+  "n": 37,
+  "lower_sizes": [
+    1,
+    5,
+    9,
+    13,
+    17
+  ],
+  "ring": "seven",
+  "modulus_decimal": "7",
+  "backend": "64",
+  "threads": 16,
+  "reserve_bytes": 17179869184,
+  "timeout_seconds": 86400,
+  "output": "/opt/meander-tree-mod-crt-m37-20261105-001/runs/M37_G1_SEVEN",
+  "source_digest": "f4b8f59d5026089e59b1974d7239f30dfff8c556552535d05b197f2d29501c66",
+  "matrix_files_allowed": false,
+  "cache_dir": "/opt/meander-tree-mod-crt-m37-20261105-001/numba_cache"
+}

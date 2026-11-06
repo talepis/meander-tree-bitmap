@@ -1,0 +1,37 @@
+{
+  "status": "CRT_RECONSTRUCTION_MATCH",
+  "n": 36,
+  "Mn_decimal": "2358261838751729019212344104926012",
+  "passes": [
+    {
+      "n": 36,
+      "ring": "pow2",
+      "residue_decimal": "4566168664814992188",
+      "seconds": 3790.724024035968,
+      "sampled_peak_RSS_bytes": 1342333284352,
+      "OS_high_water_bytes": 1342327930880,
+      "stage_count": 64,
+      "matrix_read_bytes": 0,
+      "matrix_write_bytes": 0
+    },
+    {
+      "n": 36,
+      "ring": "ones",
+      "residue_decimal": "4566296506445435402",
+      "seconds": 4027.22667730134,
+      "sampled_peak_RSS_bytes": 1342990065664,
+      "OS_high_water_bytes": 1342984175616,
+      "stage_count": 64,
+      "matrix_read_bytes": 0,
+      "matrix_write_bytes": 0
+    }
+  ],
+  "moduli_decimal": [
+    "18446744073709551616",
+    "18446744073709551615"
+  ],
+  "product_decimal": "340282366920938463444927863358058659840",
+  "Catalan_squared_bound_decimal": "143036777430430308793718801051894994064",
+  "independent_of_tree_grammar": false,
+  "scope": "Two fresh modular tree/bitmap computations; same grammar and geometry as candidate"
+}

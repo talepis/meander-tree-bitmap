@@ -1,0 +1,78 @@
+{
+  "status": "CRT_RECONSTRUCTION_MATCH",
+  "group": 3,
+  "lower_sizes": [
+    3,
+    7,
+    11,
+    15,
+    19
+  ],
+  "value_decimal": "8167706898852597808184508178753372",
+  "lower_coverage_decimal": "13665755438047789660",
+  "proved_family_bound_decimal": "627952454081869466319268178128183156240",
+  "CRT_product_decimal": "2381976568446569244114495043506410618880",
+  "residues": [
+    {
+      "group": 3,
+      "lower_sizes": [
+        3,
+        7,
+        11,
+        15,
+        19
+      ],
+      "ring": "pow2",
+      "modulus_decimal": "18446744073709551616",
+      "residue_decimal": "8085708093619169116",
+      "lower_coverage_decimal": "13665755438047789660",
+      "seconds": 2280.6362584875897,
+      "sampled_peak_RSS_bytes": 1250145067008,
+      "stage_count": 66,
+      "matrix_read_bytes": 0,
+      "matrix_write_bytes": 0,
+      "result_sha256": "5467a98aa07e4de58e44d1f7728f9efb1a20b0c3ba7edb897f3da5e10cd63aaa"
+    },
+    {
+      "group": 3,
+      "lower_sizes": [
+        3,
+        7,
+        11,
+        15,
+        19
+      ],
+      "ring": "ones",
+      "modulus_decimal": "18446744073709551615",
+      "residue_decimal": "8086150865897367157",
+      "lower_coverage_decimal": "13665755438047789660",
+      "seconds": 2394.116612118669,
+      "sampled_peak_RSS_bytes": 1250442362880,
+      "stage_count": 66,
+      "matrix_read_bytes": 0,
+      "matrix_write_bytes": 0,
+      "result_sha256": "32ed1306481743bb0ffa9436778781a4e8540d1f5a2a8e2e1a6b692bcc41315f"
+    },
+    {
+      "group": 3,
+      "lower_sizes": [
+        3,
+        7,
+        11,
+        15,
+        19
+      ],
+      "ring": "seven",
+      "modulus_decimal": "7",
+      "residue_decimal": "0",
+      "lower_coverage_decimal": "13665755438047789660",
+      "seconds": 2426.2213679160923,
+      "sampled_peak_RSS_bytes": 1249698279424,
+      "stage_count": 66,
+      "matrix_read_bytes": 0,
+      "matrix_write_bytes": 0,
+      "result_sha256": "3cdd67b8b60ff3b0f67871b5434434f58dac996211df53735453b67e7b83989f"
+    }
+  ],
+  "source_digest": "f4b8f59d5026089e59b1974d7239f30dfff8c556552535d05b197f2d29501c66"
+}

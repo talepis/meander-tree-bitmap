@@ -1,0 +1,4 @@
+{
+  "error": "MemoryError('Arena RAM gate: 1770798168440')",
+  "traceback": "Traceback (most recent call last):\n  File \"/opt/meander-tree-bitmap-m37-final-20261104-001/MEANDER_TREE_BITMAP_M37_FINAL/server_meander.py\", line 182, in main\n    result = calculate(a.n, threads, tail=8, memory_mib=arena/(1<<20),\n        timeout=a.timeout_hours*3600, dense_cut=-125, progress=progress,\n        index_prealloc_bytes=2701940180 if a.n==30 else 0,**flags)\n  File \"/opt/meander-tree-bitmap-m37-final-20261104-001/MEANDER_TREE_BITMAP_M37_FINAL/engine/linear_support.py\", line 155, in calculate\n    if charge>memory_mib*2**20 or fresh_needed+(3<<30)>psutil.virtual_memory().available:raise MemoryError('Arena RAM gate: %d'%charge)\n                                                                                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\nMemoryError: Arena RAM gate: 1770798168440\n"
+}

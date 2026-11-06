@@ -1,0 +1,13 @@
+{
+  "pid": 9903,
+  "argv": [
+    "/opt/meander-tree-m35-20261103-001/.venv/bin/python",
+    "-m",
+    "unittest",
+    "discover",
+    "-s",
+    "/opt/meander-m38-families-20261105-001/MEANDER_M38_FAMILIES/tests",
+    "-v"
+  ],
+  "epoch": 1793881152.239292
+}

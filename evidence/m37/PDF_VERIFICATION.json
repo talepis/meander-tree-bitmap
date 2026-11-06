@@ -1,0 +1,20 @@
+{
+  "status": "PDF_QA_PASS",
+  "pdf": "C:\\Users\\Efthimios\\Documents\\Codex\\2026-10-10\\files-mentioned-by-the-user-meander\\outputs\\TREE_M37_LINUX_MEMORY_20261104\\MEANDER_M37_FULL_REPORT_GR_20261105.pdf",
+  "sha256": "c9655c0f021d64724ce48ddaa2cb127134d5a202027459b3b6dd0cb790c45028",
+  "pages": 7,
+  "checks": {
+    "pages_7": true,
+    "M37_exact": true,
+    "duration": true,
+    "RSS": true,
+    "no_independent_CRT": true,
+    "stage_table_start": true,
+    "stage_table_end": true,
+    "M1_to_M37": true,
+    "source_hash": true,
+    "no_words_outside_page": true
+  },
+  "visual_rendered_pages": 7,
+  "visual_review": "PASS; all seven pages inspected in contact sheet; edited page 2 separately re-rendered and inspected"
+}

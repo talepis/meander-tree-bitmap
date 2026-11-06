@@ -1,0 +1,13 @@
+{
+  "status": "PASS",
+  "backend": "windows_DiscardVirtualMemory",
+  "alignment_cases": 10000,
+  "invalid_ranges_rejected": 3,
+  "advice_bytes": 192925696,
+  "RSS_before": 234504192,
+  "RSS_after": 41631744,
+  "RSS_drop": 192872448,
+  "advice_seconds": 0.043383599957451224,
+  "kept_bytes_unchanged": true,
+  "reused_bytes_rewritten_and_checked": true
+}

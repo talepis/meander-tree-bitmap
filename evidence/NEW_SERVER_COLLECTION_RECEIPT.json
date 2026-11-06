@@ -1,0 +1,9 @@
+{
+  "status": "COLLECTED_READ_ONLY",
+  "pod_uid": "cc20182f-f1a1-48eb-9a02-ec52e0c4cde9",
+  "archive_sha256": "c69bc5676769e096ab83a6ecb233476383d23e90873a7942831f0b5550a6d22d",
+  "archive_bytes": 565355,
+  "files": 161,
+  "archive": "C:\\Users\\Efthimios\\Documents\\Codex\\2026-10-10\\files-mentioned-by-the-user-meander\\outputs\\OEIS_M35_M38_20261106\\NEW_SERVER_EVIDENCE_20261106.tar.gz",
+  "extracted_files": 161
+}

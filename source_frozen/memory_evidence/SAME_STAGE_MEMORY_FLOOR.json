@@ -1,0 +1,54 @@
+{
+  "source": "measured M36 bitmap",
+  "rows": [
+    {
+      "stage": 40,
+      "peak_coefficient_bytes": 330833488800,
+      "final_target_bytes": 330709519856,
+      "max_possible_reduction_by_same_stage_reordering_bytes": 123968944
+    },
+    {
+      "stage": 41,
+      "peak_coefficient_bytes": 443374227176,
+      "final_target_bytes": 443092612160,
+      "max_possible_reduction_by_same_stage_reordering_bytes": 281615016
+    },
+    {
+      "stage": 42,
+      "peak_coefficient_bytes": 552411595080,
+      "final_target_bytes": 547124134304,
+      "max_possible_reduction_by_same_stage_reordering_bytes": 5287460776
+    },
+    {
+      "stage": 43,
+      "peak_coefficient_bytes": 633991405456,
+      "final_target_bytes": 629384096264,
+      "max_possible_reduction_by_same_stage_reordering_bytes": 4607309192
+    },
+    {
+      "stage": 44,
+      "peak_coefficient_bytes": 667069564752,
+      "final_target_bytes": 656221232120,
+      "max_possible_reduction_by_same_stage_reordering_bytes": 10848332632
+    },
+    {
+      "stage": 45,
+      "peak_coefficient_bytes": 659535878488,
+      "final_target_bytes": 647030381056,
+      "max_possible_reduction_by_same_stage_reordering_bytes": 12505497432
+    },
+    {
+      "stage": 46,
+      "peak_coefficient_bytes": 647034458072,
+      "final_target_bytes": 515809089040,
+      "max_possible_reduction_by_same_stage_reordering_bytes": 131225369032
+    },
+    {
+      "stage": 47,
+      "peak_coefficient_bytes": 515804007656,
+      "final_target_bytes": 419423272048,
+      "max_possible_reduction_by_same_stage_reordering_bytes": 96380735608
+    }
+  ],
+  "note": "Target final arrays must all coexist at the stage boundary. Inter-stage splitting can change this constraint, but may repeat shared work."
+}

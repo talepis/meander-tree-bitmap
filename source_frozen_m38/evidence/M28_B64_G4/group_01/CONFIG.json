@@ -1,0 +1,19 @@
+{
+  "n": 28,
+  "backend": "64",
+  "threads": 12,
+  "reserve_bytes": 3221225472,
+  "memory_gib": 13.73,
+  "warmup_n": 12,
+  "source_digest": "efda251fc59d0866158215ee2e82658ed9a0a127050514f37265f0ba3eec43e4",
+  "matrix_files_allowed": false,
+  "lower_sizes": [
+    1,
+    5,
+    9,
+    13
+  ],
+  "output": "C:\\Users\\Efthimios\\Documents\\Codex\\2026-10-10\\files-mentioned-by-the-user-meander\\outputs\\M38_FAMILIES_20261105\\M28_B64_G4\\group_01",
+  "timeout_seconds": 86400.0,
+  "cache_dir": "C:\\Users\\Efthimios\\Documents\\Codex\\2026-10-10\\files-mentioned-by-the-user-meander\\work\\m38cache"
+}

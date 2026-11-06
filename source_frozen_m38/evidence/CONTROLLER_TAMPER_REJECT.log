@@ -1,0 +1,10 @@
+PACKAGE_SOURCE_HASHES_PASS: 102 files
+
+Traceback (most recent call last):
+  File "C:\Users\Efthimios\Documents\Codex\2026-10-10\files-mentioned-by-the-user-meander\work\m38_families_20261105\MEANDER_M38_FAMILIES\server_meander.py", line 126, in <module>
+    if __name__=='__main__':sys.exit(main())
+                                     ^^^^^^
+  File "C:\Users\Efthimios\Documents\Codex\2026-10-10\files-mentioned-by-the-user-meander\work\m38_families_20261105\MEANDER_M38_FAMILIES\server_meander.py", line 57, in main
+    if state.get('result_sha256')!=sha(p):raise ArithmeticError('Completed result hash mismatch')
+                                          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ArithmeticError: Completed result hash mismatch

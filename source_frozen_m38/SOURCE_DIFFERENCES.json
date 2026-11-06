@@ -1,0 +1,101 @@
+{
+  "source_digest": "efda251fc59d0866158215ee2e82658ed9a0a127050514f37265f0ba3eec43e4",
+  "reference_engine32_unchanged": true,
+  "reference_source_count": 44,
+  "changed_rank64_sources": [
+    {
+      "name": "axis_plan.py",
+      "reference_sha256": "5c79d2935010358ddf61e0d4b5829f03b4b8a7ecac2156dad0b5ff754cd71670",
+      "candidate_sha256": "a156fa4cfed075e70b3cddc9352ceda9516baa6e214a979a1236d137cc5da6be"
+    },
+    {
+      "name": "bitmap_geometry.py",
+      "reference_sha256": "b2ce36042df1bd774a676034a07da6684a1a7aed9ad67bef4feddf31f9a48917",
+      "candidate_sha256": "628eec8550ec60fe3f9f6919b5dc828b3f3b93f0c3325e880809e829e5eb710a"
+    },
+    {
+      "name": "dense_geometry.py",
+      "reference_sha256": "8fd4958d44d439ef70d247f9d472a4d55bddc1bd61af72ecbbe2bf50c3b0373e",
+      "candidate_sha256": "ccadbe50496d09e0bdbbea01490da3ae9dd3f1b16ce2aeeb3b9256c5a97fd5f6"
+    },
+    {
+      "name": "factor_geometry.py",
+      "reference_sha256": "af32e8cf884d92d5646bf61e850fd308dfc1d4a191d8ef221bd7f48773365e04",
+      "candidate_sha256": "2dfe4b839c981cfbacea30a957e1d3f7fa61aaa63176a142b69fefecb54e45dc"
+    },
+    {
+      "name": "factor_metadata.py",
+      "reference_sha256": "9c859a0ed1a0fa33015bf503c38143485670b97efe79b63af169961c29e1e4ea",
+      "candidate_sha256": "1843f7278b784d9e839efc81a48b5f7e0f546f24895fa85bc0c6b02a89a84ee5"
+    },
+    {
+      "name": "factor_supports.py",
+      "reference_sha256": "5c8058ba7a9c8f716c64020286d8765591e6af83567814e9796f55d19f28561f",
+      "candidate_sha256": "eb931f5bed4c18fa31440bd4734b10e2e2c2dc95ad23f849969c53970ef323c0"
+    },
+    {
+      "name": "fast_maps.py",
+      "reference_sha256": "95fb805efd91f8b406e87c313ef35f1fe130d55ae0c5b9d9cc593f2b73f61262",
+      "candidate_sha256": "f1bbaf6d4d3650c6720c26b8e9d9ee6821cf62e9d4157de404594ac37f13ea8d"
+    },
+    {
+      "name": "fast_support.py",
+      "reference_sha256": "01f63b9fcb3d5df7b9310a6d6102ca441dbd621f428fb13fd15064745aaeedae",
+      "candidate_sha256": "806440513ed6995812ee2f904813c90041a6c84a78cfe464b792099f558ddb61"
+    },
+    {
+      "name": "linear_support.py",
+      "reference_sha256": "553917185db52d5f56ca51c1da2b26f37b2967fbd58f121d53cf07583623d576",
+      "candidate_sha256": "6c8d47736bbbc701269e1c7a38a347db912a44fe6e8c14a056cf12997ee0fab8"
+    },
+    {
+      "name": "native_linear_support.py",
+      "reference_sha256": "783bf0b757deb5d3cbc00701dab0e5a332343205246eb2a237b8219f78c9d9fe",
+      "candidate_sha256": "761fc497c07e29a1f852de3ffe3450c9bd78d79203f1285350ed71396387225d"
+    },
+    {
+      "name": "reference_geometry.py",
+      "reference_sha256": "0ca936a97ed09ac67114e062ff13914562dbfda65564aec2016e6c87f000ec38",
+      "candidate_sha256": "0ed511794eba8beac80e13b23c8bce3e8052ac473ac535fec6097a8c06e02d83"
+    },
+    {
+      "name": "split_geometry.py",
+      "reference_sha256": "e7f704717e8eb8d29502d16294877397aa2df707d7132d723b2edb062d79ef7b",
+      "candidate_sha256": "eaa0ee02e3bb6f0817a6e6491be40b6e8e93c33aebe230f2565f3519abf2152e"
+    }
+  ],
+  "unchanged_sources": [
+    "arena_kernels.py",
+    "compact_geometry.py",
+    "compact_packed.py",
+    "compact_wide.py",
+    "compressed_maps.py",
+    "deterministic.py",
+    "geometry_diagnostic.py",
+    "grammar_min.py",
+    "lifetime.py",
+    "map_ranges.py",
+    "memory_release.py",
+    "native_clock.py",
+    "numeric_kernels.py",
+    "numeric_lifetime.py",
+    "numeric_schedule.py",
+    "packed_kernels.py",
+    "parallel_geometry.py",
+    "primitives.py",
+    "profile_geometry.py",
+    "profile_lifetime.py",
+    "profile_native_geometry.py",
+    "profile_stream_chunk.py",
+    "rank_tools.py",
+    "split_packed.py",
+    "split_wide.py",
+    "stream_chunk.py",
+    "stream_packed.py",
+    "target_geometry.py",
+    "terminal_table.py",
+    "vector_maxima.py",
+    "weighted.py",
+    "wide_kernels.py"
+  ]
+}

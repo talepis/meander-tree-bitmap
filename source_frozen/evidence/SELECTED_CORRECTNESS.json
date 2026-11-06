@@ -1,0 +1,80 @@
+{
+  "status": "PASS",
+  "counts": {
+    "coefficients": 2820552975,
+    "index_values": 733161033,
+    "support_values": 743426906,
+    "stages": 92
+  },
+  "cases": [
+    {
+      "n": 26,
+      "Mn": "91412898898828176826244",
+      "status": "EXACT_PASS",
+      "counts": {
+        "coefficients": 498151289,
+        "index_values": 140435200,
+        "support_values": 150275140,
+        "stages": 44
+      }
+    },
+    {
+      "n": 28,
+      "Mn": "10726008363361842734385644",
+      "status": "EXACT_PASS",
+      "counts": {
+        "coefficients": 2322401686,
+        "index_values": 592725833,
+        "support_values": 593151766,
+        "stages": 48
+      }
+    }
+  ],
+  "seconds": 32.5245785000734,
+  "oracle_storage": "RAM only; no matrix files",
+  "source_hashes": {
+    "arena_kernels.py": "ff10f5c3aae364505e0007bcab16097db673de780c30a1cb6e48736c9931c754",
+    "axis_plan.py": "0be5f3405cb664c8b7eb58ad3103a8dd486654adce916b3d13620617e0121033",
+    "bitmap_geometry.py": "8bf9f16a5bd9c6d191cd6bcd25674aa47591fa8c5d576b8a21171f22f4991ce2",
+    "compact_geometry.py": "b81ea11dbf21968d1f7af2771330d2460030fa2129828b9a6f784b716ddbba83",
+    "compact_packed.py": "2f69f5ae523e96605cbe85836085867b604d517c9ded5900a79684c2369c8b4a",
+    "compact_wide.py": "e18e65f02ff45f8a180d88ae309d2d5986ac658d057e0bc86f3e5314f498f884",
+    "compressed_maps.py": "0f06f5e00570ca81a336cce96114b604ecb8d5f215578462f912c5ebefde2eba",
+    "dense_geometry.py": "8fd4958d44d439ef70d247f9d472a4d55bddc1bd61af72ecbbe2bf50c3b0373e",
+    "deterministic.py": "0b321c5e034f0d0d49ad82f2e74a41d73cb6b3662503e0a41a0f267444ed3748",
+    "factor_geometry.py": "3cd47c8a3e066c949696d4f4728260f0960bbacad7f11e68ed5d1b8017cda406",
+    "factor_metadata.py": "09a525e7665d3b06ca34ba93d4b6fced38c7810b52d13f184c5c0f47f43b1562",
+    "factor_supports.py": "f0b9d0f94298c93645bc2cee1d2bf401b54cfdd8fd65f6f86ea960f2e15d8c63",
+    "fast_maps.py": "9efae08875d641c8b0d99d7a0f049639170219f3b93b7632833fce92fa837c4e",
+    "fast_support.py": "01f63b9fcb3d5df7b9310a6d6102ca441dbd621f428fb13fd15064745aaeedae",
+    "geometry_diagnostic.py": "a701bb47af582c661b61c0d4577a835df4a194f5b397eeeaf96613e1e0ed5950",
+    "grammar_min.py": "464b7744cdc85a7d783a43f90e8ebee831a616402814adaf278357375f4d8809",
+    "lifetime.py": "ce9ea714c941e4efbd627171c12c3bf77d32f6f107a48d8ed9931ab220f6cdbd",
+    "linear_support.py": "2f55f84c3f83f6e5b0aad29763cd4f70be2ffb42f2962437af06adba3a87aa44",
+    "map_ranges.py": "abd0dfaff6172bc4bbf4eb12c662e736f336a8169d9a541d99920616deae88a4",
+    "native_clock.py": "a611c11c5f5bdb655ce60d1ff901da41782ea9761cdef99d302ea1a6c415c9e6",
+    "native_linear_support.py": "783bf0b757deb5d3cbc00701dab0e5a332343205246eb2a237b8219f78c9d9fe",
+    "numeric_kernels.py": "110f2591db0234de485c01f99a2e48974f45f5d9020945b7677578933c1b42ac",
+    "numeric_lifetime.py": "fddb06e1bc1900a5ef56c9523a6c829572955012299493c68579ac5e1d4ea622",
+    "numeric_schedule.py": "d2883dd3ce27dde23c650dd8d44098bc0b1f7a13dfb84fb1d102b11f27473b32",
+    "packed_kernels.py": "05bdfa26c050127b7ff21bed562682274771c3a13b8352fdd9602091d65c9d5b",
+    "parallel_geometry.py": "964e0660989a293ee7d4bded50b5329e20eed5cc5576eba1565a2b4c9ba0b94c",
+    "primitives.py": "3b3a27139c9d2a16256f78a110080d8ba81c61657ef04af31fe2144032c9b557",
+    "profile_geometry.py": "ba9474b539cd111069f15f8f2420740f0a7538130f9fe037024bbe0b9e12d0e4",
+    "profile_lifetime.py": "a739a668d50c826edf6bc713c5842dc19f28d5c01b2a4bb27c2fbeecf4efde7c",
+    "profile_native_geometry.py": "a2cefd1ac94bb5aec6b5df80f0189bfc4fdf84f3343bfd0f27643be021a55017",
+    "profile_stream_chunk.py": "56015fc57f3d70c1a3891d3aaaf8c40810545b11b551bbda25a90b56a60c643f",
+    "rank_tools.py": "503d0b50b95a6cde287eb57d2f4496448c289839eefb02c12e6e68f904e1c8e4",
+    "reference_geometry.py": "75c39525d21822a3db0ceb767773d3a133537b2f2ef97cd1dd70f175c1c8805f",
+    "split_geometry.py": "17276f45a546c3af6d8cdedbf86d199d110c0df54b42024e6ac71805a8183b1e",
+    "split_packed.py": "24de6cafd5d66bcf4e39b35d3ac61919107349bd3abc3486b54951279bcf1039",
+    "split_wide.py": "972adc0b1f1930fa39a01022bcb6fb063524ad667daf097e7b356604c4f0606e",
+    "stream_chunk.py": "5508b29367c5c1db92926aaff5830a5b77002253fbd9c61936fbd956192398cc",
+    "stream_packed.py": "10e94833718bef1f25ae2788587367cee7c50afe4ed76ab68c68db6b7eb954af",
+    "target_geometry.py": "43959e086ee62a8990c29f524d9741a5d7f92d9e9042b31f462b5fc0c84e3791",
+    "terminal_table.py": "68c9d1f37081393be66a438b8af0260bd3ef4a6ceaa84edecd51816b91eb95c1",
+    "vector_maxima.py": "88570b9455d32c0aaaff8f04f583d5e3a0c7cb7c6ebafa466c32ac5c75a21663",
+    "weighted.py": "e85cc3cb47c96fbe0e009b8ebc3934add9f8e10179668d0a61b1e5195c3e9655",
+    "wide_kernels.py": "2e5b9ea000d41dabb73b5ff1cc8d173e55137b3d7264ad9343dae412797e5caf"
+  }
+}

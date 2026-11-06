@@ -1,0 +1,20 @@
+{
+  "n": 38,
+  "catalan": "176733862787006701400",
+  "global_bound_decimal": "31234858255616512135985161648508761960000",
+  "global_bound_bits": 135,
+  "rank_dtype": "int64",
+  "rank_bytes": 8,
+  "max_ballot_rank_count": 6768687870,
+  "closemap_elements": 39690644623,
+  "closemap_bytes": 317525156984,
+  "pooled_scratch_bytes": 324897017760,
+  "fixed_support_bytes": 642422174744,
+  "centroid_width": 50,
+  "max_joint_cell_domain": 1798821461250,
+  "stages_per_group": 68,
+  "family_count": 19,
+  "total_RSS_prediction_bytes": null,
+  "arithmetic": "Certified per-block <=128 bits; checked rejection before target writes if cap fails; Python-integer final sum",
+  "matrix_files_allowed": false
+}

@@ -1,0 +1,9 @@
+
+Traceback (most recent call last):
+  File "C:\Users\Efthimios\Documents\Codex\2026-10-10\files-mentioned-by-the-user-meander\work\m38_families_20261105\MEANDER_M38_FAMILIES\server_meander.py", line 126, in <module>
+    if __name__=='__main__':sys.exit(main())
+                                     ^^^^^^
+  File "C:\Users\Efthimios\Documents\Codex\2026-10-10\files-mentioned-by-the-user-meander\work\m38_families_20261105\MEANDER_M38_FAMILIES\server_meander.py", line 30, in main
+    if report['initial_admission']!='READY_FOR_GUARDED_GROUPS':raise MemoryError('Fixed arrays and reserve do not fit; no numerical job started')
+                                                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+MemoryError: Fixed arrays and reserve do not fit; no numerical job started

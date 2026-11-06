@@ -1,0 +1,13 @@
+{
+  "status": "PASS",
+  "n": 37,
+  "lower_sizes": [
+    2,
+    6,
+    10,
+    14,
+    18
+  ],
+  "Mn": "4",
+  "result_sha256": "4bf2bcaa9392135723134608d7d15873e3c9c37aaee5b453bfe653b537822326"
+}

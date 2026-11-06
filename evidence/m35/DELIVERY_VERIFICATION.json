@@ -1,0 +1,62 @@
+{
+  "status": "PACKAGE_CHECKS_PASS",
+  "package": "C:\\Users\\Efthimios\\Documents\\Codex\\2026-10-10\\files-mentioned-by-the-user-meander\\outputs\\TREE_M35_SERVER_20261103\\MEANDER_TREE_M35_SERVER_RESULTS_20261104.zip",
+  "sha256": "e4aadccd706fb1a1347ab7d309b220ed5790cdb36a7e4b726f66f94ccaa23c89",
+  "bytes": 198366,
+  "contents": {
+    "REPORT_GR.md": {
+      "sha256": "4c21e9547866350109600cf3923a595c5533cf8324518a7bf60813affe26ca5c",
+      "bytes": 4287
+    },
+    "MEANDER_TREE_M35_REPORT_GR_20261104.pdf": {
+      "sha256": "d1f18e6d67db7a624544e22a3ffe10029fd18296990b788d8840cdc0f909249e",
+      "bytes": 102926
+    },
+    "audit/AUDIT.json": {
+      "sha256": "08fb5c61281c83e8084ee76374e1ee1674e890e640bd47d51643bcb5cd6651c6",
+      "bytes": 1717
+    },
+    "audit/PDF_QA.json": {
+      "sha256": "bb04a41f545bc09c473d8ad2caadb35f936539e372265498f78dded3266a4e82",
+      "bytes": 494
+    },
+    "audit/COLLECTION_MANIFEST.json": {
+      "sha256": "36ed5131dbbcee46ca2ae7dc6a0c8828005d221a516ea530c12e11ebd65e99ae",
+      "bytes": 918
+    },
+    "raw/PREFLIGHT.json": {
+      "sha256": "1cd5e6aaa87aea21618a365d3f3b38c662e152bcd84de93389035d3e9cc37493",
+      "bytes": 1985
+    },
+    "raw/STATE.json": {
+      "sha256": "5079f1a5f20dfe3bfc8238aaa7abaecd531ab96a327ea171cf538b2cbf7ca73c",
+      "bytes": 156
+    },
+    "raw/STAGES.jsonl": {
+      "sha256": "09584d175db53c0b808cdf046b8f8baa5587b69e321187c4101475a2902711c9",
+      "bytes": 36477
+    },
+    "raw/RESULT.json": {
+      "sha256": "806669c9e7d7cb01cfc1008aa93925aa0df82bf633bdc695e674d7225ba8c6a8",
+      "bytes": 24796
+    },
+    "raw/M35.stdout.log": {
+      "sha256": "625f722140a9277f98131f758f81d1298b97e36554be00c317cf8104426af977",
+      "bytes": 5545
+    },
+    "raw/M35.stderr.log": {
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    "raw/SELF_TEST_RESULT.json": {
+      "sha256": "17ac5eeafcf1cc17c828a218b0993b060e3b06f9748d27e348c4fbe60390f39e",
+      "bytes": 2248
+    },
+    "source/MEANDER_TREE_M35_SERVER_20261103.zip": {
+      "sha256": "eb85023904c83a4cf58a4c9a3d0ef0b6c20a5a12b7ca669d729f9f5ab55bbfe3",
+      "bytes": 85405
+    }
+  },
+  "M35_audit_status": "M35_RECORDS_CHECK_PASS",
+  "independent_CRT": false
+}

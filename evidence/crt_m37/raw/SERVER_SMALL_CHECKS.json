@@ -1,0 +1,8 @@
+{
+  "status": "PASS",
+  "source_digest": "f4b8f59d5026089e59b1974d7239f30dfff8c556552535d05b197f2d29501c66",
+  "results": {
+    "test_mod_rings.py": "M37_MODULAR_RINGS_PASS: 400 randomized arithmetic pairs, 3 rings, serial/parallel mapped transfers",
+    "test_small_full.py": "M37_MODULAR_WHOLE_SMALL_PASS: 27 group-residue comparisons"
+  }
+}

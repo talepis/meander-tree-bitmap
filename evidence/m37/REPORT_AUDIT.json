@@ -1,0 +1,41 @@
+{
+  "status": "REPORT_DATA_CHECKS_PASS",
+  "created_utc": "2026-11-05T07:07:42.786148+00:00",
+  "checks": {
+    "result_status_PASS": true,
+    "state_COMPLETE": true,
+    "n_37": true,
+    "66_consecutive_stages": true,
+    "stages_match_result": true,
+    "phase_sums_match": true,
+    "peak_RSS_matches": true,
+    "zero_matrix_IO_every_stage": true,
+    "all_stage_caps_recorded": true,
+    "global_bound": true,
+    "M37_result_under_128_bits": true,
+    "selftest_PASS": true,
+    "source_manifest_consistent": true,
+    "profiles_expected": true,
+    "known_values_1_to_37": true
+  },
+  "M37": "26370652969449510879209096913242792",
+  "seconds": 5689.257196068764,
+  "stages": 66,
+  "peak_numeric_stage": 45,
+  "peak_geometry_stage": 40,
+  "peak_RSS_bytes": 1771293687808,
+  "stage44_previous_peak_RSS_bytes": [
+    1933970202624,
+    1934373687296
+  ],
+  "stage44_current_peak_RSS_bytes": 1706470035456,
+  "source_manifest_sha256": "f6835ac33bde4f40d28355e0b81e2ac2c7368da4fe1bcd491a1461e6d3b28dd5",
+  "raw_sha256": {
+    "COLLECTION_RECEIPT.json": "bea490e6621a62cbcd4e226424026a659595ddbcc2ae13acb8672bdadff13914",
+    "PREFLIGHT.json": "e8bfd577c59db94ce5a15d4d86cb8f7f28e5bbc34441a765048af9343709e02c",
+    "RESULT.json": "49475f39550e79fb945a24fef571b14fe8788fa1afb3dfacb64ed29e70fe9545",
+    "STAGES.jsonl": "cae2e4e07a3537bd5b8549e1c7862403128bb2a439c5aa5d442ba7092ee1e65f",
+    "STATE.json": "2b702ffb2593210e7c33277a3b6e43ff8fa4e0e25d32731bff360cd3b0301d89"
+  },
+  "independent_CRT": false
+}

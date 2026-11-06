@@ -1,0 +1,9 @@
+{
+  "pod_uid": "cc20182f-f1a1-48eb-9a02-ec52e0c4cde9",
+  "cgroup_limit_bytes": 2040109465600,
+  "cgroup_current_bytes": 207081472,
+  "host_available_bytes": 2137863761920,
+  "reserve_bytes": 17179869184,
+  "matrix_files_allowed": false,
+  "epoch": 1793881435.0751276
+}

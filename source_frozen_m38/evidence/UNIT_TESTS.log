@@ -1,0 +1,14 @@
+
+test_incomplete_wrong_source_or_overlap_rejected (test_protocol.ProtocolTests.test_incomplete_wrong_source_or_overlap_rejected) ... ok
+test_m38_exact_rank_and_bound_domain (test_protocol.ProtocolTests.test_m38_exact_rank_and_bound_domain) ... ok
+test_m38_fewer_groups_rejected (test_protocol.ProtocolTests.test_m38_fewer_groups_rejected) ... ok
+test_one_parent_lock (test_protocol.ProtocolTests.test_one_parent_lock) ... ok
+test_partition_all_small_and_target_orders (test_protocol.ProtocolTests.test_partition_all_small_and_target_orders) ... ok
+test_real_available_not_nominal_host_total (test_protocol.ProtocolTests.test_real_available_not_nominal_host_total) ... ok
+test_sum_above_128_bits_is_exact_python_integer (test_protocol.ProtocolTests.test_sum_above_128_bits_is_exact_python_integer) ... ok
+test_unsafe_old_domain_rejected (test_protocol.ProtocolTests.test_unsafe_old_domain_rejected) ... ok
+
+----------------------------------------------------------------------
+Ran 8 tests in 0.026s
+
+OK

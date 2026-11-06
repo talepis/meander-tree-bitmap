@@ -1,0 +1,23 @@
+{
+  "collected_utc": "2026-11-05T07:00:11.060504+00:00",
+  "pod_uid": "cc20182f-f1a1-48eb-9a02-ec52e0c4cde9",
+  "remote_run": "/opt/meander-tree-m37-linux-memory-20261104-001/runs/M37_MEMORY",
+  "files": {
+    "PREFLIGHT.json": {
+      "sha256": "e8bfd577c59db94ce5a15d4d86cb8f7f28e5bbc34441a765048af9343709e02c",
+      "bytes": 4306
+    },
+    "STATE.json": {
+      "sha256": "2b702ffb2593210e7c33277a3b6e43ff8fa4e0e25d32731bff360cd3b0301d89",
+      "bytes": 178
+    },
+    "STAGES.jsonl": {
+      "sha256": "cae2e4e07a3537bd5b8549e1c7862403128bb2a439c5aa5d442ba7092ee1e65f",
+      "bytes": 45367
+    },
+    "RESULT.json": {
+      "sha256": "49475f39550e79fb945a24fef571b14fe8788fa1afb3dfacb64ed29e70fe9545",
+      "bytes": 192626
+    }
+  }
+}

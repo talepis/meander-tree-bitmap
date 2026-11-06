@@ -1,0 +1,160 @@
+{
+  "status": "PASS",
+  "rows": [
+    {
+      "n": 28,
+      "baseline": {
+        "repetitions": 3,
+        "Mn": "10726008363361842734385644",
+        "wall_seconds": [
+          5.962361500016414,
+          5.876604699995369,
+          5.9492409999947995
+        ],
+        "median_wall_seconds": 5.9492409999947995,
+        "RSS_sampled_peak_bytes": [
+          3162439680,
+          3007905792,
+          3178262528
+        ],
+        "max_RSS_sampled_peak_bytes": 3178262528,
+        "prep_seconds": [
+          0.029596300097182393,
+          0.030121700023300946,
+          0.029459299985319376
+        ],
+        "warmup_seconds": [
+          1.1486457999562845,
+          1.1554537999909371,
+          1.147640599985607
+        ],
+        "median_geometry_seconds": 1.8591227000579238,
+        "median_numeric_seconds": 3.729956899769604,
+        "peak_coefficient_arena_bytes": 1147778704,
+        "matrix_read_bytes": 0,
+        "matrix_write_bytes": 0
+      },
+      "bitmap": {
+        "repetitions": 3,
+        "Mn": "10726008363361842734385644",
+        "wall_seconds": [
+          4.893330999999307,
+          4.85039300005883,
+          4.873497900087386
+        ],
+        "median_wall_seconds": 4.873497900087386,
+        "RSS_sampled_peak_bytes": [
+          2664210432,
+          2660098048,
+          2660892672
+        ],
+        "max_RSS_sampled_peak_bytes": 2664210432,
+        "prep_seconds": [
+          0.031020999886095524,
+          0.029965099995024502,
+          0.030307999928481877
+        ],
+        "warmup_seconds": [
+          1.2507816000143066,
+          1.2423101998865604,
+          1.2456547999754548
+        ],
+        "median_geometry_seconds": 1.0201215005945414,
+        "median_numeric_seconds": 3.6063778998795897,
+        "peak_coefficient_arena_bytes": 1147778704,
+        "matrix_read_bytes": 0,
+        "matrix_write_bytes": 0
+      },
+      "total_time_reduction_percent": 18.082022562346246,
+      "speedup": 1.220733264271669,
+      "RSS_reduction_percent": 16.173997316813214
+    },
+    {
+      "n": 30,
+      "baseline": {
+        "repetitions": 3,
+        "Mn": "1279842888607976889797535044",
+        "wall_seconds": [
+          27.772229800000787,
+          28.356519900029525,
+          28.114717799937353
+        ],
+        "median_wall_seconds": 28.114717799937353,
+        "RSS_sampled_peak_bytes": [
+          11357769728,
+          11358474240,
+          11357921280
+        ],
+        "max_RSS_sampled_peak_bytes": 11358474240,
+        "prep_seconds": [
+          0.03652770002372563,
+          0.0378011999418959,
+          0.03797029994893819
+        ],
+        "warmup_seconds": [
+          1.1455127000808716,
+          1.1474857000866905,
+          1.1445428000297397
+        ],
+        "median_geometry_seconds": 10.979183199699037,
+        "median_numeric_seconds": 16.4323075999273,
+        "peak_coefficient_arena_bytes": 5564047744,
+        "matrix_read_bytes": 0,
+        "matrix_write_bytes": 0
+      },
+      "bitmap": {
+        "repetitions": 3,
+        "Mn": "1279842888607976889797535044",
+        "wall_seconds": [
+          18.842369699967094,
+          19.501207900000736,
+          18.867097500013188
+        ],
+        "median_wall_seconds": 18.867097500013188,
+        "RSS_sampled_peak_bytes": [
+          10449498112,
+          10452574208,
+          10454257664
+        ],
+        "max_RSS_sampled_peak_bytes": 10454257664,
+        "prep_seconds": [
+          0.03801080002449453,
+          0.037826300016604364,
+          0.03846860001794994
+        ],
+        "warmup_seconds": [
+          1.2310978000750765,
+          1.2408673000754789,
+          1.23974490002729
+        ],
+        "median_geometry_seconds": 2.243277300032787,
+        "median_numeric_seconds": 16.053069299901836,
+        "peak_coefficient_arena_bytes": 5564047744,
+        "matrix_read_bytes": 0,
+        "matrix_write_bytes": 0
+      },
+      "total_time_reduction_percent": 32.89245286305087,
+      "speedup": 1.4901453601921388,
+      "RSS_reduction_percent": 7.960722161218725
+    }
+  ],
+  "correctness_counts": {
+    "coefficients": 2933258396,
+    "index_values": 767729955,
+    "support_values": 784018385,
+    "stages": 308
+  },
+  "platform": "Windows native",
+  "threads": 12,
+  "arithmetic": "identical checked 8/16/32/64/128-bit integers; numeric_mode=parallel",
+  "power": "AC, battery 100%, energy saver disabled",
+  "RSS_sample_period_seconds": 0.005,
+  "time_scope": "Complete calculate call wall time, after separate M12 warm-up in each fresh process; no phase excluded",
+  "compilation_seconds": null,
+  "compilation_note": "Warm-up recorded separately. Residual lazy JIT/cache loading remains in the complete measured call; no invented subtraction.",
+  "promotion_threshold_percent": 10,
+  "full_M36_executed": false,
+  "independent_CRT": false,
+  "protected_sources_count": 70,
+  "protected_sources_status": "UNCHANGED"
+}

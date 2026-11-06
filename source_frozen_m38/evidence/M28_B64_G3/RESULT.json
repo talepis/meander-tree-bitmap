@@ -1,0 +1,91 @@
+{
+  "status": "PASS",
+  "n": 28,
+  "Mn": "10726008363361842734385644",
+  "weighted_lower_coverage": "263747951750360",
+  "source_digest": "efda251fc59d0866158215ee2e82658ed9a0a127050514f37265f0ba3eec43e4",
+  "groups": [
+    [
+      1,
+      4,
+      7,
+      10,
+      13
+    ],
+    [
+      2,
+      5,
+      8,
+      11,
+      14
+    ],
+    [
+      3,
+      6,
+      9,
+      12
+    ]
+  ],
+  "backend": "64",
+  "threads": 12,
+  "numerical_seconds": 8.178749399958178,
+  "worker_measured_wall_seconds": 8.195367899956182,
+  "all_worker_launcher_seconds": 14.18704010010697,
+  "controller_session_seconds": 16.45299999997951,
+  "process_RSS_sampled_peak_bytes": 1600765952,
+  "process_RSS_note": "Largest clean worker sampled peak; controller is a separate small process included in cgroup/host guards.",
+  "peak_coefficient_arena_bytes": 495644232,
+  "peak_logical_bytes": 683180240,
+  "total_stages": 144,
+  "groups_completed": 3,
+  "matrix_read_bytes": 0,
+  "matrix_write_bytes": 0,
+  "independent_CRT": false,
+  "known_reference_checked": true,
+  "group_results": [
+    {
+      "group": 1,
+      "path": "group_01\\RESULT.json",
+      "sha256": "a77cc2c9035faf5e392dc7e5f542112d0953a0d4398882fa2e72c2add66f5572",
+      "lower_sizes": [
+        1,
+        4,
+        7,
+        10,
+        13
+      ],
+      "contribution": "3180974555788285272707810",
+      "seconds": 2.7046357999788597,
+      "RSS_peak_bytes": 1600765952
+    },
+    {
+      "group": 2,
+      "path": "group_02\\RESULT.json",
+      "sha256": "9e4652d2ebb05c4f46c242e7c08090913961bd7fab064a33a5c8ab16ebb30c6c",
+      "lower_sizes": [
+        2,
+        5,
+        8,
+        11,
+        14
+      ],
+      "contribution": "5541351672339270804596382",
+      "seconds": 2.7475403998978436,
+      "RSS_peak_bytes": 1508331520
+    },
+    {
+      "group": 3,
+      "path": "group_03\\RESULT.json",
+      "sha256": "b8f3668467a6d2c8847151d16af22b2494c4213905d037a740e84179f9618b37",
+      "lower_sizes": [
+        3,
+        6,
+        9,
+        12
+      ],
+      "contribution": "2003682135234286657081452",
+      "seconds": 2.726573200081475,
+      "RSS_peak_bytes": 1569767424
+    }
+  ]
+}

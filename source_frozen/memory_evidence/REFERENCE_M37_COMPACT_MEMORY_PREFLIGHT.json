@@ -1,0 +1,48 @@
+{
+  "n": 37,
+  "decision": "RUN",
+  "predicted_peak_bytes": 2003049430717,
+  "source_manifest_sha256": "e866450a19b29339ad0627b1487ada6ca4085011d1c6fe84c6a5f01659dd07b2",
+  "basis": "M36 bitmap full 64-stage coefficient/metadata/RSS measurements; observed M35-to-M36 maximum-entry ratio for coefficient arena; exact M36-to-M37 Catalan-ballot close-map ratio for metadata and other live RSS; exact 24*maxB+4*maps fixed support; 3% engineering margin. This is a forecast, not a proved upper bound. Fresh per-stage and cgroup guards remain enabled; no matrix spill. The first full M37 stopped before stage 45 at its fresh RAM gate; the isolated compact variant now drops a finished translation index pool when its retained capacity is at least twice the stage need. The full M32 compact regression verified all 56 stages and observed actual RSS release. No previous numeric result was reused.",
+  "prediction_is_proved_upper_bound": false,
+  "prediction_components_bytes": {
+    "coefficient_arena": 1385013502457,
+    "geometry_metadata": 253770217223,
+    "fixed_support": 166390449652,
+    "other_RSS": 139534015830
+  },
+  "raw_prediction_bytes": 1944708185162,
+  "engineering_margin_percent": 3,
+  "measured_M36_peak_RSS_bytes": 945597001728,
+  "measured_M36_peak_coefficient_bytes": 667069564752,
+  "measured_M36_peak_metadata_bytes": 125977923464,
+  "M36_RSS_residual_bytes": 69268197660,
+  "M35_max_stage_entries": 66251757276,
+  "M36_max_stage_entries": 137556235867,
+  "dimensions_M36": {
+    "max_ballot_count": 1771605360,
+    "closemap_entries": 10190696803,
+    "fixed_support_bytes": 83281315852
+  },
+  "dimensions_M37": {
+    "max_ballot_count": 3511574910,
+    "closemap_entries": 20528162953,
+    "fixed_support_bytes": 166390449652
+  },
+  "fresh_resources": {
+    "limit": 2040109465600,
+    "current": 511614976,
+    "host_available": 2138308972544,
+    "disk_free": 3608395563008
+  },
+  "effective_available_bytes": 2039597850624,
+  "guarded_budget_bytes": 2019196755968,
+  "remaining_after_prediction_bytes": 16147325251,
+  "M36_audit_status": "M36_BITMAP_FULL_CHECKS_PASS",
+  "Linux_final_preflight_status": "PASS",
+  "pod_uid": "cc20182f-f1a1-48eb-9a02-ec52e0c4cde9",
+  "independent_CRT": false,
+  "previous_M37_failure_stage": 45,
+  "compact_M32_audit_status": "COMPACT_M32_FULL_CHECKS_PASS",
+  "previous_attempt_peak_RSS_bytes": 1933970202624
+}

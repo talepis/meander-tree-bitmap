@@ -1,0 +1,39 @@
+{
+  "n": 38,
+  "groups": [
+    [
+      1,
+      5,
+      9,
+      13,
+      17
+    ],
+    [
+      2,
+      6,
+      10,
+      14,
+      18
+    ],
+    [
+      3,
+      7,
+      11,
+      15,
+      19
+    ],
+    [
+      4,
+      8,
+      12,
+      16
+    ]
+  ],
+  "backend": "64",
+  "threads": 16,
+  "reserve_bytes": 17179869184,
+  "memory_gib": null,
+  "warmup_n": null,
+  "source_digest": "efda251fc59d0866158215ee2e82658ed9a0a127050514f37265f0ba3eec43e4",
+  "matrix_files_allowed": false
+}

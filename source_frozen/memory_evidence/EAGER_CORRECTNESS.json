@@ -1,0 +1,87 @@
+{
+  "status": "PASS",
+  "counts": {
+    "coefficients": 2928146788,
+    "index_values": 754907560,
+    "support_values": 781543462,
+    "stages": 204
+  },
+  "cases": [
+    {
+      "n": 1,
+      "Mn": "1",
+      "status": "EXACT_PASS"
+    },
+    {
+      "n": 2,
+      "Mn": "2",
+      "status": "EXACT_PASS"
+    },
+    {
+      "n": 3,
+      "Mn": "8",
+      "status": "EXACT_PASS"
+    },
+    {
+      "n": 4,
+      "Mn": "42",
+      "status": "EXACT_PASS"
+    },
+    {
+      "n": 5,
+      "Mn": "262",
+      "status": "EXACT_PASS"
+    },
+    {
+      "n": 6,
+      "Mn": "1828",
+      "status": "EXACT_PASS"
+    },
+    {
+      "n": 7,
+      "Mn": "13820",
+      "status": "EXACT_PASS"
+    },
+    {
+      "n": 8,
+      "Mn": "110954",
+      "status": "EXACT_PASS"
+    },
+    {
+      "n": 9,
+      "Mn": "933458",
+      "status": "EXACT_PASS"
+    },
+    {
+      "n": 10,
+      "Mn": "8152860",
+      "status": "EXACT_PASS"
+    },
+    {
+      "n": 11,
+      "Mn": "73424650",
+      "status": "EXACT_PASS"
+    },
+    {
+      "n": 12,
+      "Mn": "678390116",
+      "status": "EXACT_PASS"
+    },
+    {
+      "n": 24,
+      "Mn": "794337831754570367812",
+      "status": "EXACT_PASS"
+    },
+    {
+      "n": 26,
+      "Mn": "91412898898828176826244",
+      "status": "EXACT_PASS"
+    },
+    {
+      "n": 28,
+      "Mn": "10726008363361842734385644",
+      "status": "EXACT_PASS"
+    }
+  ],
+  "seconds": 29.137151999981143
+}

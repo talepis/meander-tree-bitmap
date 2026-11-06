@@ -1,0 +1,9 @@
+# Validation and limits
+
+The retained pre-M38 source checks cover complete small-order calculations, brute-force matching-pair checks, numeric capacity tests, and a full M32 A/B memory comparison. The earlier exact M35, M36 and M37 records were verified in the predecessor release. This release independently rechecked the retained M37 CRT results and M38 four-family records using `evidence/NEW_NUMERIC_AUDIT.json`.
+
+For M37, there are 11 fresh modular runs across four disjoint lower-matching family groups. Each contains 66 recorded stages. The reconstructed group values sum to the exact integer 26370652969449510879209096913242792. The product of the coprime moduli used for each group exceeds that group's stated Catalan-pair upper bound; a third modulus 7 checks groups 1-3. All retained raw result SHA-256 hashes, residues, stage counts, source digests and zero matrix I/O were checked. These modular runs share tree grammar and bitmap geometry with the exact program, so they do not independently validate those shared components.
+
+For M38, all four exact groups passed 68 stages each. The retained group result SHA-256 hashes, source digests, contributions, sums, 272-stage count, peak RSS and zero matrix I/O match the final record. The worker used checked integer bounds and passed the server's small-order and M32 gates. **No M38 modular CRT or second-algorithm check has been done.**
+
+M35 and M36 have matching modular reconstructions in the predecessor records. The modular computations also share the tree grammar and frontier geometry. None of the checks is an institutional attestation or a formal proof of every execution path. SHA-256 records support integrity of distributed files, not proof that a remote execution occurred. The proposed terms require review and acceptance by OEIS editors.

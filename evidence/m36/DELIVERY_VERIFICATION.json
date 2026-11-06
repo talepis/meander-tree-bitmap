@@ -1,0 +1,9 @@
+{
+  "status": "PACKAGE_CHECKS_PASS",
+  "package": "C:\\Users\\Efthimios\\Documents\\Codex\\2026-10-10\\files-mentioned-by-the-user-meander\\outputs\\TREE_PARALLEL_M36_SERVER_20261104\\MEANDER_TREE_PARALLEL_M36_RESULTS_20261104.zip",
+  "sha256": "e4cd58d1d48137efcfcbaf2942fb4eb519ed6007d368b42596da549031a9934a",
+  "bytes": 180758,
+  "member_count": 36,
+  "M36_audit_status": "M36_RECORDS_CHECK_PASS",
+  "independent_CRT": false
+}

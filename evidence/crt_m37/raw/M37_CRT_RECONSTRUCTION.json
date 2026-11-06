@@ -1,0 +1,308 @@
+{
+  "status": "CRT_RECONSTRUCTION_MATCH",
+  "n": 37,
+  "Mn_decimal": "26370652969449510879209096913242792",
+  "groups": [
+    {
+      "status": "CRT_RECONSTRUCTION_MATCH",
+      "group": 1,
+      "lower_sizes": [
+        1,
+        5,
+        9,
+        13,
+        17
+      ],
+      "value_decimal": "5671011448593624687315687926223436",
+      "lower_coverage_decimal": "10195904709165604930",
+      "proved_family_bound_decimal": "468510022203358067346515072996668254520",
+      "CRT_product_decimal": "2381976568446569244114495043506410618880",
+      "residues": [
+        {
+          "group": 1,
+          "lower_sizes": [
+            1,
+            5,
+            9,
+            13,
+            17
+          ],
+          "ring": "pow2",
+          "modulus_decimal": "18446744073709551616",
+          "residue_decimal": "14236219142675190348",
+          "lower_coverage_decimal": "10195904709165604930",
+          "seconds": 1812.6009274376556,
+          "sampled_peak_RSS_bytes": 886704988160,
+          "stage_count": 66,
+          "matrix_read_bytes": 0,
+          "matrix_write_bytes": 0,
+          "result_sha256": "2b4fb93d2c651b31923adde9afc794d2d5dc037f233215666f9a971fa235b71d"
+        },
+        {
+          "group": 1,
+          "lower_sizes": [
+            1,
+            5,
+            9,
+            13,
+            17
+          ],
+          "ring": "ones",
+          "modulus_decimal": "18446744073709551615",
+          "residue_decimal": "14236526568821828116",
+          "lower_coverage_decimal": "10195904709165604930",
+          "seconds": 1897.149516446516,
+          "sampled_peak_RSS_bytes": 886711066624,
+          "stage_count": 66,
+          "matrix_read_bytes": 0,
+          "matrix_write_bytes": 0,
+          "result_sha256": "32945aad85fbac7d22a48a21a1b7f996a3503d39a5c8ce49a8db27cf4accae70"
+        },
+        {
+          "group": 1,
+          "lower_sizes": [
+            1,
+            5,
+            9,
+            13,
+            17
+          ],
+          "ring": "seven",
+          "modulus_decimal": "7",
+          "residue_decimal": "3",
+          "lower_coverage_decimal": "10195904709165604930",
+          "seconds": 1877.6175824925303,
+          "sampled_peak_RSS_bytes": 886404952064,
+          "stage_count": 66,
+          "matrix_read_bytes": 0,
+          "matrix_write_bytes": 0,
+          "result_sha256": "894305a8e88c1ba8995868af1e3454d4f1a80178d0618f742af369d7e8b95e12"
+        }
+      ],
+      "source_digest": "f4b8f59d5026089e59b1974d7239f30dfff8c556552535d05b197f2d29501c66"
+    },
+    {
+      "status": "CRT_RECONSTRUCTION_MATCH",
+      "group": 2,
+      "lower_sizes": [
+        2,
+        6,
+        10,
+        14,
+        18
+      ],
+      "value_decimal": "8627197591070922873586785677251444",
+      "lower_coverage_decimal": "14842383093535521276",
+      "proved_family_bound_decimal": "682019441242124665848783205540112536464",
+      "CRT_product_decimal": "2381976568446569244114495043506410618880",
+      "residues": [
+        {
+          "group": 2,
+          "lower_sizes": [
+            2,
+            6,
+            10,
+            14,
+            18
+          ],
+          "ring": "pow2",
+          "modulus_decimal": "18446744073709551616",
+          "residue_decimal": "4675429317292626804",
+          "lower_coverage_decimal": "14842383093535521276",
+          "seconds": 1946.29092825111,
+          "sampled_peak_RSS_bytes": 1031501447168,
+          "stage_count": 66,
+          "matrix_read_bytes": 0,
+          "matrix_write_bytes": 0,
+          "result_sha256": "a49e0b08c0fbabac40400bec27cbd893b84151b89674bd4d2a67e549c666873f"
+        },
+        {
+          "group": 2,
+          "lower_sizes": [
+            2,
+            6,
+            10,
+            14,
+            18
+          ],
+          "ring": "ones",
+          "modulus_decimal": "18446744073709551615",
+          "residue_decimal": "4675896998611161844",
+          "lower_coverage_decimal": "14842383093535521276",
+          "seconds": 2057.075110352598,
+          "sampled_peak_RSS_bytes": 1031208599552,
+          "stage_count": 66,
+          "matrix_read_bytes": 0,
+          "matrix_write_bytes": 0,
+          "result_sha256": "f7adb66b9b0e7e1e89e8e54bc85ae30d8c89202ce7c6644fbdd6f8723a68ee94"
+        },
+        {
+          "group": 2,
+          "lower_sizes": [
+            2,
+            6,
+            10,
+            14,
+            18
+          ],
+          "ring": "seven",
+          "modulus_decimal": "7",
+          "residue_decimal": "4",
+          "lower_coverage_decimal": "14842383093535521276",
+          "seconds": 2036.6774776596576,
+          "sampled_peak_RSS_bytes": 1030834069504,
+          "stage_count": 66,
+          "matrix_read_bytes": 0,
+          "matrix_write_bytes": 0,
+          "result_sha256": "4bf2bcaa9392135723134608d7d15873e3c9c37aaee5b453bfe653b537822326"
+        }
+      ],
+      "source_digest": "f4b8f59d5026089e59b1974d7239f30dfff8c556552535d05b197f2d29501c66"
+    },
+    {
+      "status": "CRT_RECONSTRUCTION_MATCH",
+      "group": 3,
+      "lower_sizes": [
+        3,
+        7,
+        11,
+        15,
+        19
+      ],
+      "value_decimal": "8167706898852597808184508178753372",
+      "lower_coverage_decimal": "13665755438047789660",
+      "proved_family_bound_decimal": "627952454081869466319268178128183156240",
+      "CRT_product_decimal": "2381976568446569244114495043506410618880",
+      "residues": [
+        {
+          "group": 3,
+          "lower_sizes": [
+            3,
+            7,
+            11,
+            15,
+            19
+          ],
+          "ring": "pow2",
+          "modulus_decimal": "18446744073709551616",
+          "residue_decimal": "8085708093619169116",
+          "lower_coverage_decimal": "13665755438047789660",
+          "seconds": 2280.6362584875897,
+          "sampled_peak_RSS_bytes": 1250145067008,
+          "stage_count": 66,
+          "matrix_read_bytes": 0,
+          "matrix_write_bytes": 0,
+          "result_sha256": "5467a98aa07e4de58e44d1f7728f9efb1a20b0c3ba7edb897f3da5e10cd63aaa"
+        },
+        {
+          "group": 3,
+          "lower_sizes": [
+            3,
+            7,
+            11,
+            15,
+            19
+          ],
+          "ring": "ones",
+          "modulus_decimal": "18446744073709551615",
+          "residue_decimal": "8086150865897367157",
+          "lower_coverage_decimal": "13665755438047789660",
+          "seconds": 2394.116612118669,
+          "sampled_peak_RSS_bytes": 1250442362880,
+          "stage_count": 66,
+          "matrix_read_bytes": 0,
+          "matrix_write_bytes": 0,
+          "result_sha256": "32ed1306481743bb0ffa9436778781a4e8540d1f5a2a8e2e1a6b692bcc41315f"
+        },
+        {
+          "group": 3,
+          "lower_sizes": [
+            3,
+            7,
+            11,
+            15,
+            19
+          ],
+          "ring": "seven",
+          "modulus_decimal": "7",
+          "residue_decimal": "0",
+          "lower_coverage_decimal": "13665755438047789660",
+          "seconds": 2426.2213679160923,
+          "sampled_peak_RSS_bytes": 1249698279424,
+          "stage_count": 66,
+          "matrix_read_bytes": 0,
+          "matrix_write_bytes": 0,
+          "result_sha256": "3cdd67b8b60ff3b0f67871b5434434f58dac996211df53735453b67e7b83989f"
+        }
+      ],
+      "source_digest": "f4b8f59d5026089e59b1974d7239f30dfff8c556552535d05b197f2d29501c66"
+    },
+    {
+      "status": "CRT_RECONSTRUCTION_MATCH",
+      "group": 4,
+      "lower_sizes": [
+        4,
+        8,
+        12,
+        16
+      ],
+      "value_decimal": "3904737030932365510122115131014540",
+      "lower_coverage_decimal": "7246761083872826498",
+      "proved_family_bound_decimal": "332994500552324020878030470774228361272",
+      "CRT_product_decimal": "340282366920938463444927863358058659840",
+      "residues": [
+        {
+          "group": 4,
+          "lower_sizes": [
+            4,
+            8,
+            12,
+            16
+          ],
+          "ring": "pow2",
+          "modulus_decimal": "18446744073709551616",
+          "residue_decimal": "8313323173282610572",
+          "lower_coverage_decimal": "7246761083872826498",
+          "seconds": 2024.4657072676346,
+          "sampled_peak_RSS_bytes": 842644873216,
+          "stage_count": 66,
+          "matrix_read_bytes": 0,
+          "matrix_write_bytes": 0,
+          "result_sha256": "0eefdcc317a10d859a78b630ca33e8bbbd3d157048e7af51a0506f9cbf787b13"
+        },
+        {
+          "group": 4,
+          "lower_sizes": [
+            4,
+            8,
+            12,
+            16
+          ],
+          "ring": "ones",
+          "modulus_decimal": "18446744073709551615",
+          "residue_decimal": "8313534849501206645",
+          "lower_coverage_decimal": "7246761083872826498",
+          "seconds": 2153.897580716759,
+          "sampled_peak_RSS_bytes": 842218668032,
+          "stage_count": 66,
+          "matrix_read_bytes": 0,
+          "matrix_write_bytes": 0,
+          "result_sha256": "cb2ac436ffd69341fa28d5cc870566c373d3f372d7c63b2ea3f4615671e2d293"
+        }
+      ],
+      "source_digest": "f4b8f59d5026089e59b1974d7239f30dfff8c556552535d05b197f2d29501c66"
+    }
+  ],
+  "completed_passes": 11,
+  "moduli_decimal": [
+    "18446744073709551616",
+    "18446744073709551615",
+    "7"
+  ],
+  "global_bound_decimal": "2111476418079676220392596927439192308496",
+  "source_digest": "f4b8f59d5026089e59b1974d7239f30dfff8c556552535d05b197f2d29501c66",
+  "independent_of_tree_grammar": false,
+  "scope": "Fresh modular family passes share tree grammar and bitmap geometry with the exact algorithm",
+  "matrix_read_bytes": 0,
+  "matrix_write_bytes": 0
+}

@@ -1,0 +1,17 @@
+{
+  "status": "PASS",
+  "backend": "linux_madvise_DONTNEED",
+  "advice_bytes": 192925696,
+  "RSS_before": 236249088,
+  "RSS_after": 43323392,
+  "RSS_drop": 192925696,
+  "seconds": 0.0004211794584989548,
+  "preserved_live_prefix_suffix": true,
+  "rewritten_bytes_verified": true,
+  "fresh_available_before_test": 332295712768,
+  "max_private_test_array_bytes": 201326729,
+  "no_files_written": true,
+  "no_MEANDER_worker_started": true,
+  "no_worker_signals_sent": true,
+  "pod_uid": "cc20182f-f1a1-48eb-9a02-ec52e0c4cde9"
+}
